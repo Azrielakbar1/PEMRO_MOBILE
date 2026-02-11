@@ -15,4 +15,4 @@ Aplikasi sederhana Android menggunakan Kotlin yang bisa:
 4. Klik Tombol Run
 
 ## 🎥 Video Penggunaan App
-()
+(https://youtu.be/OOEDNdfLXGA)
