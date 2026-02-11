@@ -14,5 +14,5 @@ Aplikasi sederhana Android menggunakan Kotlin yang bisa:
 3. Cari Icon "Run"
 4. Klik Tombol Run
 
-## 🎥 Video Demo
-(Link YouTube akan ditambahkan)
+## 🎥 Video Penggunaan App
+()
